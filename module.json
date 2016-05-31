@@ -1,0 +1,19 @@
+{
+  "private": false,
+  "name": "GitHub",
+  "description": "Provides a Jolie wrapper for the GitHub API.",
+  "source": {
+    "module": "DanThrane/jolie-github"
+  },
+  "version": {
+    "patch": 0,
+    "major": 0,
+    "minor": 1
+  },
+  "dependencies": [
+    {
+        "module": "jolie-advanced-http",
+        "version": "0.1.0"
+    }
+  ]
+}
